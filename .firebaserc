@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "marvel-fake-api",
+    "staging": "my-project-4b71c"
+  },
+  "targets": {}
+}
