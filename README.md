@@ -1,4 +1,5 @@
-# Laptops
+# Display and sort price and data by Vue
+
 
 
 ## Project setup
