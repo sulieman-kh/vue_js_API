@@ -1,4 +1,4 @@
-# Display and sort price and data by Vue
+# Display and sort price and data using Vue
 
 
 
